@@ -1,5 +1,5 @@
 export const SITE = {
-  title: '潮流周刊',
+  title: 'Jason の 碎碎念',
   author: 'JasonChou',
   description: '记录JasonChou不枯燥的生活，欢迎关注',
   keywords: 'Blog,后端,macOS,IOS,Quantumult X,Swift',
