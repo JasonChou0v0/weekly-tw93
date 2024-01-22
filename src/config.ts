@@ -8,7 +8,7 @@ export const SITE = {
   homePage: 'https://jasonchou.vercel.app',
   blogPage: 'https://jasonchou.vercel.app/',
   twitterId: 'JasonChou_X',
-  githubId: 'zhouzhouchn',
-  repo: 'zhouzhouchn/weekly-tw93'
+  githubId: 'JasonChou0v0',
+  repo: 'JasonChou0v0/weekly-tw93'
 };
 
