@@ -2,7 +2,7 @@
 date: 2024/01/19
 ---
 
-<img src="https://raw.githubusercontent.com/zhouzhouchn/weekly-tw93/main/public/assets/202401200010083.JPEG" width="800" />
+<img src="https://raw.githubusercontent.com/JasonChou0v0/weekly-tw93/main/public/assets/202401200010083.JPEG" width="800" />
 
 <small>封面来源于去年五月在长沙玩的时候，夜晚的杜甫江阁别具特色，长沙夜市的小吃还是忘不掉，不知道下次去又是什么时候。</small>
 
